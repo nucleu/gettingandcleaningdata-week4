@@ -1,5 +1,5 @@
 # gettingandcleaningdata-week4
-Created by Shreyaskar Singh
+Created by Dhwanil Vasani
 
 This repository contains the files related to Coursera’s “Getting and Cleaning Data” Week 4 Assignment.
 
